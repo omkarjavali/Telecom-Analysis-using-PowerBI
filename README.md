@@ -25,3 +25,7 @@ This project focused on analyzing the impact of Telecom's 5G launch on key perfo
 
 ## Impact
 The project provided Telecom’s top-level management with a clear and comprehensive view of the 5G launch's impact on their business. The actionable insights derived from the analysis helped inform strategic decisions, optimizing the company's approach to leveraging 5G technology.
+
+## Dashboard Image
+
+![Telecom Project image](https://github.com/user-attachments/assets/da12ecbb-0170-4ab8-93b7-da7800446b53)
